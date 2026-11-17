@@ -107,4 +107,9 @@
 アウンアウンミャッチョー,Aung Aung Kyaw Myat,Junior Developer,SGWT00130146
 トゥザールウィン,Thu Zar Lwin,PHP Developer,SGWT00130147
 エー チャム モン ゾー,Aye Cham Mon Zaw,Junior Developer,SGWT00130148
-メイ シュン レー ナイン,May Shun Lae Naing,Junior Developer,SGWT00130149
+アウン・チョー・ワイ・トゥン,Aung Kyaw Wai Htun,Junior Developer,SGWT00130149
+チョーポ,Chaw Po,Junior Developer,SGWT00130150
+カイン・マー・ティン,Khaing Mar Thin,Junior Developer,SGWT00130151
+サン・テーツ・ター,San Htake Htar,Junior Developer,SGWT00130152
+キン サンダー チョ,Khin Sandar Kyaw,Junior Developer,SGWT00130153
+ティン・ティリ・ボン,Thin Thiri Bon,Junior Developer,SGWT00130154
